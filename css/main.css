@@ -1,0 +1,21 @@
+body
+{
+    width:100vw;
+    padding:0;
+    margin:0;
+}
+.section
+{
+    height:100vh;
+}
+.rowsection
+{
+    height:100vh;
+}
+.landimage
+{
+    position: absolute;
+    top:25vh;
+    height:50vh;
+    margin:auto;
+}
